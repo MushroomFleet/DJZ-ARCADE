@@ -22,6 +22,11 @@ Tactical combat game with strategic mercenary management.
 - **Play Online:** [scuffedepoch.com/reactwarrior2](https://scuffedepoch.com/reactwarrior2/)
 - **Documentation:** [View Development Plan](reactwarrior2.md)
 
+### 🔵 React Zero
+FZERO inspired racing game with track editor.
+- **Play Online:** [scuffedepoch.com/react-zero](https://scuffedepoch.com/react-zero/)
+- **Documentation:** [View Development Plan](reactzero.md)
+
 ---
 
 ## 📥 Installation
