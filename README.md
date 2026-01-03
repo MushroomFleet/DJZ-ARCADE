@@ -40,6 +40,12 @@ TRON inspired 3D TANK game with campaign levels and level editor.
 - **TINS README.md:** [View Original Plan](https://github.com/MushroomFleet/TINS-for-Skills/blob/main/GAMES/REACT-TANKS-README.md)
 - **Research Study:** [Deep Research Report](https://github.com/MushroomFleet/TINS-for-Skills/blob/main/GAMES/game-study/TRON-TANK-study.md)
 
+### 🔵 React Wars
+Syndicate Wars inspired isometric real time strategy, deterministic city. Level Editor.
+- **Play Online:** [scuffedepoch.com/react-wars](https://scuffedepoch.com/react-wars/)
+- **Documentation:** [View Game Readme](reactwars.md)
+- **TINS README.md:** [View Original Plan](https://github.com/MushroomFleet/TINS-for-Skills/blob/main/GAMES/REACT-WARS-README.md)
+
 ---
 
 ## 📥 Installation
