@@ -28,13 +28,13 @@ Tactical combat game with strategic mercenary management.
 FZERO inspired racing game with track editor.
 - **Play Online:** [scuffedepoch.com/react-zero](https://scuffedepoch.com/react-zero/)
 - **Documentation:** [View Game Readme](reactzero.md)
-- **TINS README.md:** View Original Plan
+- **TINS README.md:** [View Original Plan](https://github.com/MushroomFleet/TINS-for-Skills/blob/main/GAMES/LIGHT-CYCLES-TINS-README.md)
 
 ### ⚔️ React-Tanks
 TRON inspired 3D TANK game with campaign levels and level editor.
 - **Play Online:** [scuffedepoch.com/react-tanks](https://scuffedepoch.com/react-tanks/)
 - **Documentation:** [View Game Readme](react_tanks.md)
-- **TINS README.md:** View Original Plan
+- **TINS README.md:** [View Original Plan](https://github.com/MushroomFleet/TINS-for-Skills/blob/main/GAMES/REACT-TANKS-README.md)
 
 ---
 
