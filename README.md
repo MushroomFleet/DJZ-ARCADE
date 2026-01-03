@@ -16,7 +16,7 @@ DJZ-ARCADE is a curated collection of original indie games available for downloa
 A fast-paced arcade game featuring dynamic cycling mechanics.
 - **Play Online:** [scuffedepoch.com/react-cycles-one](https://scuffedepoch.com/react-cycles-one/)
 - **Documentation:** [View Game Readme](react-cycles-one.md)
-- **TINS README.md:** View Original Plan
+- **TINS README.md:** [View Original Plan](https://github.com/MushroomFleet/TINS-for-Skills/blob/main/GAMES/LIGHT-CYCLES-TINS-README.md)
 
 ### ⚔️ ReactWarrior: Mercenaries
 Tactical combat game with strategic mercenary management.
