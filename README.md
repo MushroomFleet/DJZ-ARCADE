@@ -46,6 +46,13 @@ Syndicate Wars inspired isometric real time strategy, deterministic city. Level 
 - **Documentation:** [View Game Readme](reactwars.md)
 - **TINS README.md:** [View Original Plan](https://github.com/MushroomFleet/TINS-for-Skills/blob/main/GAMES/REACT-WARS-README.md)
 
+### ⚔️ ROBOT PLANET
+Vampire Survivor inspired survival with mecha themes and 3D procedural assets.
+- **Play Online:** [scuffedepoch.com/robot-planet](https://scuffedepoch.com/robot-planet/)
+- **Documentation:** [View Game Readme](robotplanet.md)
+- **TINS README.md:** [View Original Plan](#)
+- **Research Study:** [Deep Research Report](#)
+
 ---
 
 ## 📥 Installation
